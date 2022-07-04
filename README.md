@@ -42,6 +42,6 @@ npx amank
 ```
 
 ### 📱 Socials
-<a href="https://www.linkedin.com/in/aman-kumar-singh-08b2b220b/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=&color=green&link=https://docs.ethers.io/v5/" /></a>
+<a href="https://www.linkedin.com/in/aman-kumar-singh-08b2b220b/"><img src="https://img.shields.io/static/v1?label=LinkedIn&messageconnect=&color=green&link=https://www.linkedin.com/in/aman-kumar-singh-08b2b220b/" /></a>
 <a href="https://docs.ethers.io/v5/"><img src="https://img.shields.io/static/v1?label=EthersJS&message=^5.6.9&color=green&link=https://docs.ethers.io/v5/" /></a>
 <a href="https://docs.ethers.io/v5/"><img src="https://img.shields.io/static/v1?label=EthersJS&message=^5.6.9&color=green&link=https://docs.ethers.io/v5/" /></a>
