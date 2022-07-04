@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 -->
 
 ### 📫 How to reach me:
-- If you have **npm** installed in your system, run this command in your terminal:
+- If you have **npx** installed in your system, run this command in your terminal:
 ```
-npx hiaman
+npx amank
 ```
