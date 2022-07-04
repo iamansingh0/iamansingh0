@@ -34,3 +34,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📫 How to reach me:
+- If you have **npm** installed in your system, run this command in your terminal:
+```
+npx hiaman
+```
