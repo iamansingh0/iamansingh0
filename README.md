@@ -2,7 +2,7 @@
 - 3rd Year Computer Science Student at [VIT Chennai](https://chennai.vit.ac.in/)
 - Blockchain enthusiastic
 
-### About me
+### 😄 About me
 ---
 ```js
 const me = {
@@ -15,7 +15,7 @@ const me = {
 		console.log("Thanks for dropping by, hope you find some of my work interesting.")
 		}
 		
-	learning: "I am learning hardhat these days and working on my portfolio website."
+	learning: " 🔭 I am learning hardhat these days and working on my portfolio website."
 }
 
 me.say_hi()
