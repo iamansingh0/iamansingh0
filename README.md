@@ -10,9 +10,11 @@ const me = {
 	title: "Blockchain Developer",
 	langauge_spoken: ["Hindi", "English"],
 	code: [Javascript, Solidity, HTML, CSS, C++, Java],
+	
 	say_hi: function() {
 		console.log("Thanks for dropping by, hope you find some of my work interesting.")
 		}
+		
 	learning: "I am learning hardhat these days and working on my portfolio website."
 }
 
