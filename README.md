@@ -34,6 +34,8 @@ npx amank
 
 ### 😎 My Github Stats
 <img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=iamansingh0&show_icons=true&theme=radical">
+
+### 💻 Languages Used
 <img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamansingh0&layout=compact">
 
 ### 👻 Personal Website
