@@ -31,7 +31,6 @@ npx amank
 ### 😎 My Github Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/iamansingh0?cardType=octocat&theme=highcontrast)](https://git.io/awesome-stats-card)
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JapmannKaur?cardType=octocat&theme=highcontrast)](https://git.io/awesome-stats-card)
 
 ### 💻 Languages Used
 
