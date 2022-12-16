@@ -32,5 +32,11 @@ npx amank
 <a href="https://www.instagram.com/iaman._1/"><img src="https://img.shields.io/static/v1?label=IG&message=follow&color=blue&link=https://www.instagram.com/iaman._1" /></a>
 <a href="https://mobile.twitter.com/dank_aman"><img src="https://img.shields.io/static/v1?label=Twitter&message=link&color=red&link=https://docs.ethers.io/v5/https://mobile.twitter.com/dank_aman" /></a>
 
+### 😎 My Github Stats
+<img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=iamansingh0
+&show_icons=true&theme=radical">
+<img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamansingh0
+&layout=compact">
+
 ### 👻 Personal Website
 https://amankumar-six.vercel.app/
