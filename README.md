@@ -36,7 +36,7 @@ npx amank
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/iamansingh0?cardType=octocat&theme=highcontrast)](https://git.io/awesome-stats-card)
 
 ### 💻 Languages Used
-<img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamansingh0&layout=compact">
+<img align="center" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamansingh0&layout=compact">
 
 ### 👨‍💻 Programming Forums
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
@@ -56,3 +56,6 @@ npx amank
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
+### 😭 Currently Working on
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamansingh0&repo=weshare-mern)](https://github.com/iamansingh0/weshare-mern)
