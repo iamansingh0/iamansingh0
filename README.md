@@ -33,10 +33,9 @@ npx amank
 <a href="https://mobile.twitter.com/dank_aman"><img src="https://img.shields.io/static/v1?label=Twitter&message=link&color=red&link=https://docs.ethers.io/v5/https://mobile.twitter.com/dank_aman" /></a>
 
 ### 😎 My Github Stats
-<img align="center" width="47%" src = "https://github-readme-stats.vercel.app/api?username=iamansingh0&show_icons=true&theme=radical">
+<img align="center" width="700px" height="200px" src = "https://github-readme-stats.vercel.app/api?username=iamansingh0&show_icons=true&theme=radical">
 
 ### 💻 Languages Used
-<img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamansingh0&layout=compact">
+<img align="center" width="700px" height="240px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamansingh0&layout=compact">
 
-### 👻 Personal Website
-https://amankumar-six.vercel.app/
+
