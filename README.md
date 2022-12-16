@@ -36,6 +36,6 @@ npx amank
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/iamansingh0?cardType=octocat&theme=highcontrast)](https://git.io/awesome-stats-card)
 
 ### 💻 Languages Used
-<img align="center" width="700px" height="240px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamansingh0&layout=compact">
+<img align="left" width="47%"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamansingh0&layout=compact">
 
 
