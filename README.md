@@ -1,6 +1,7 @@
 ## Hi there, I am Aman Kumar Singh 👋
 - 3rd Year Computer Science Student at [VIT Chennai](https://chennai.vit.ac.in/)
 - Blockchain enthusiastic
+- 🌱 I’m currently learning **Backend Development using ExpressJS**
 
 ### 😄 About me
 ---
@@ -26,11 +27,6 @@ me.say_hi()
 ```
 npx amank
 ```
-
-### 📱 Socials
-<a href="https://www.linkedin.com/in/aman-kumar-singh-08b2b220b/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=connect&color=green&link=https://www.linkedin.com/in/aman-kumar-singh-08b2b220b/" /></a>
-<a href="https://www.instagram.com/iaman._1/"><img src="https://img.shields.io/static/v1?label=IG&message=follow&color=blue&link=https://www.instagram.com/iaman._1" /></a>
-<a href="https://mobile.twitter.com/dank_aman"><img src="https://img.shields.io/static/v1?label=Twitter&message=link&color=red&link=https://docs.ethers.io/v5/https://mobile.twitter.com/dank_aman" /></a>
 
 ### 😎 My Github Stats
 
@@ -78,3 +74,14 @@ npx amank
 ### 🙌 Week Stats
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamansingh0)](https://github.com/iamansingh/weshare-mern)
+
+<h3 align="left">📱 Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dank_aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dank_aman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aman-kumar-singh-08b2b220b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar-singh-08b2b220b" height="30" width="40" /></a>
+<a href="https://kaggle.com/amankumar20bce1022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amankumar20bce1022" height="30" width="40" /></a>
+<a href="https://instagram.com/iaman._1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iaman._1" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/amank_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amank_123" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/amankumar7355191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amankumar7355191" height="30" width="40" /></a>
+<a href="https://discord.gg/5375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5375" height="30" width="40" /></a>
+</p>
