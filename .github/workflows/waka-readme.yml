@@ -1,4 +1,4 @@
-name: Aman Kumar Singh
+name: Waka Readme
 
 on:
   workflow_dispatch: # for manual workflow trigger
@@ -18,4 +18,3 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          SHOW_TITLE: true
