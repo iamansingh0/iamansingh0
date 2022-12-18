@@ -83,7 +83,6 @@ Markdown     31 mins         ███████░░░░░░░░░░
 HTML         25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
 CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
-[![iamansingh0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamansingh0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
 
 ### 👨‍💻 Streak
