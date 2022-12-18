@@ -75,9 +75,7 @@ npx amank
 
 ### 🙌 Week Stats
 
-<!--START_SECTION:waka-->
 [![iamansingh0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamansingh0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--END_SECTION:waka-->
 
 ### 👨‍💻 Streak
 
