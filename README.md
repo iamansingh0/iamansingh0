@@ -53,7 +53,7 @@ C++          23 mins         ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### 💻 Languages Used
 
-<img align="center" width="47%" src = "https://github-stats-6uhuh68u6-iamansingh0.vercel.app/api/top-langs/?username=iamansingh0&layout=compact">
+<img align="center" width="47%" src = "https://github-stats-85er7er9n-iamansingh0.vercel.app/api/top-langs/?username=iamansingh0&layout=compact">
 
 ### 👨‍💻 Programming Forums
 
@@ -80,7 +80,7 @@ C++          23 mins         ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### 😭 Currently Working on
 
-[![Readme Card](https://github-stats-6uhuh68u6-iamansingh0.vercel.app/api/pin/?username=iamansingh0&repo=weshare-mern)](https://github.com/iamansingh0/weshare-mern)
+[![Readme Card](https://github-stats-85er7er9n-iamansingh0.vercel.app/api/pin/?username=iamansingh0&repo=weshare-mern)](https://github.com/iamansingh0/weshare-mern)
 
 ### 👨‍💻 Streak
 
