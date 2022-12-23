@@ -33,7 +33,7 @@ npx amank
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 December 2022 - To: 22 December 2022
+From: 15 December 2022 - To: 23 December 2022
 
 Total Time: 4 hrs 52 mins
 
