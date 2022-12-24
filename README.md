@@ -82,7 +82,7 @@ C++          23 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 [![Readme Card](https://github-stats-85er7er9n-iamansingh0.vercel.app/api/pin/?username=iamansingh0&repo=weshare-mern)](https://github.com/iamansingh0/weshare-mern)
 
-### 👨‍💻 My Streak
+### 👨‍💻 Streak
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamansingh0&" alt="iamansingh0" /></p>
 
