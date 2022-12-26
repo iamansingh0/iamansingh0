@@ -94,5 +94,4 @@ C++          23 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <a href="https://instagram.com/iaman._1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iaman._1" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/amank_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amank_123" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amankumar7355191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amankumar7355191" height="30" width="40" /></a>
-<a href="https://discord.gg/5375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5375" height="30" width="40" /></a>
 </p>
