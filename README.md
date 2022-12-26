@@ -84,7 +84,7 @@ C++          23 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### 👨‍💻 Streak
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamansingh0&" alt="iamansingh0" /></p>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=iamansingh0&theme=highcontrast&hide_border=true&border_radius=5.5)](https://git.io/streak-stats)
 
 <h3 align="left">📱 Connect with me:</h3>
 <p align="left">
