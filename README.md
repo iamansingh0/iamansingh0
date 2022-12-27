@@ -8,7 +8,7 @@
 ```js
 const me = {
 	name: "Aman Kumar Singh",
-	title: "Blockchain Developer",
+	title: "Web Developer",
 	langauge_spoken: ["Hindi", "English"],
 	code: ['Javascript', 'Solidity', 'C++', 'Java'],
 	
