@@ -10,7 +10,7 @@ const me = {
 	name: "Aman Kumar Singh",
 	title: "Web Developer",
 	langauge_spoken: ["Hindi", "English"],
-	code: ['Javascript', 'Solidity', 'C++', 'Java'],
+	coding: ['Javascript', 'Solidity', 'C++', 'Java'],
 	
 	say_hi: function() {
 		console.log("Thanks for dropping by, hope you find some of my work interesting.")
