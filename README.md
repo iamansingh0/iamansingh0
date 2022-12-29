@@ -3,7 +3,7 @@
 - Blockchain enthusiastic
 - 🌱 I’m currently learning **Backend Development using ExpressJS**
 
-### 😄 About me
+### 😄 About me:
 ---
 ```js
 const me = {
