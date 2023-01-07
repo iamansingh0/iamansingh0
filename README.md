@@ -28,7 +28,7 @@ me.say_hi()
 npx amank
 ```
 
-### 🙌 Week Stats
+### 🙌 Coding Stats
 
 <!--START_SECTION:waka-->
 
