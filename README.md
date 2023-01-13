@@ -16,7 +16,7 @@ const me = {
 		console.log("Thanks for dropping by, hope you find some of my work interesting.")
 		},
 		
-	learning: " 🔭 I am learning backend development right now and working on a fullstack website."
+	learning: " 🔭 I am learning backend development right now and working on a fullstack website.",
 }
 
 me.say_hi()
