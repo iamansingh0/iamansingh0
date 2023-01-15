@@ -79,10 +79,6 @@ Other        1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-### 😭 Currently Working on
-
-[![Readme Card](https://github-stats-85er7er9n-iamansingh0.vercel.app/api/pin/?username=iamansingh0&repo=weshare-mern)](https://github.com/iamansingh0/weshare-mern)
-
 ### 👨‍💻 Streak
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=iamansingh0&theme=onedark_duo&hide_border=false&border_radius=5.5)](https://git.io/streak-stats)
