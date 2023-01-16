@@ -50,7 +50,7 @@ Other        1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/iamansingh0?cardType=octocat&theme=highcontrast)](https://git.io/awesome-stats-card)
 
-### 💻 Languages Used
+### 💻 Languages Used:
 
 <img align="center" width="47%" src = "https://github-stats-85er7er9n-iamansingh0.vercel.app/api/top-langs/?username=iamansingh0&layout=compact">
 
