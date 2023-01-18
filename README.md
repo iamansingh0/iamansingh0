@@ -54,7 +54,7 @@ Other        1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img align="center" width="47%" src = "https://github-stats-85er7er9n-iamansingh0.vercel.app/api/top-langs/?username=iamansingh0&layout=compact">
 
-### 👨‍💻 Programming Forums
+### 👨‍💻 Programming Forums :
 
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
