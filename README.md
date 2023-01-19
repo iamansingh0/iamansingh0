@@ -22,7 +22,7 @@ const me = {
 me.say_hi()
 ```
 
-### 📫 How to reach me:
+### 📫 How to reach me?
 - If you have **npx** installed in your system, run this command in your terminal:
 ```
 npx amank
