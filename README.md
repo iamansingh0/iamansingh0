@@ -33,7 +33,7 @@ npx amank
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2023 - To: 16 March 2023
+From: 10 March 2023 - To: 17 March 2023
 
 Total Time: 1 hr 16 mins
 
