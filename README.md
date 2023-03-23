@@ -53,7 +53,7 @@ HTML         20 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### 💻 Languages Used:
 
-<img align="center" width="47%" src = "https://github-stats-85er7er9n-iamansingh0.vercel.app/api/top-langs/?username=iamansingh0&layout=compact">
+<img align="center" width="47%" src = "github-stats-beta-eight.vercel.app/api/top-langs/?username=iamansingh0&layout=compact">
 
 ### 👨‍💻 Programming Forums :
 
