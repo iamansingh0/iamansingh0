@@ -1,7 +1,7 @@
 ## Hi there, I am Aman Kumar Singh 👋
 - 3rd Year Computer Science Student at [VIT Chennai](https://chennai.vit.ac.in/)
 - Blockchain enthusiastic
-- 🌱 I’m currently learning **Backend Development using ExpressJS**
+- 🌱 I’m currently learning **Advance ReactJS Concepts**
 
 ### 😄 About me:
 ---
@@ -16,7 +16,7 @@ const me = {
 		console.log("Thanks for dropping by, hope you find some of my work interesting.")
 		},
 		
-	learning: " 🔭 I am learning backend development right now and working on a fullstack website.",
+	learning: " 🔭 I am learning advance reactJS currently.",
 }
 
 me.say_hi()
