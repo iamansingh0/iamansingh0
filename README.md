@@ -84,7 +84,7 @@ Solidity     25 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=iamansingh0&theme=onedark_duo&hide_border=false&border_radius=5.5)](https://git.io/streak-stats)
 
-<h3 align="left">📱 Connect with me:</h3>
+<h3 align="left">📱 Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/dank_aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dank_aman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aman-kumar-singh-08b2b220b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar-singh-08b2b220b" height="30" width="40" /></a>
