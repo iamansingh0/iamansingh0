@@ -3,7 +3,7 @@
 - Blockchain enthusiastic
 - 🌱 I’m currently learning **Advance ReactJS Concepts**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0aaryan&label=Profile%20views&color=0e75b6&style=flat" alt="iamansingh0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamansingh0&label=Profile%20views&color=0e75b6&style=flat" alt="iamansingh0" /> </p>
 
 ### 😄 About me: 
 ---
