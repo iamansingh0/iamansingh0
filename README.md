@@ -49,10 +49,6 @@ JavaScript   28 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/iamansingh0?cardType=octocat&theme=highcontrast)](https://git.io/awesome-stats-card)
 
-### 💻 Languages Used:
-
-<img align="center" width="47%" src = "https://github-stats-beta-eight.vercel.app/api/top-langs/?username=iamansingh0&layout=compact">
-
 ### 👨‍💻 Programming Forums :
 
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
