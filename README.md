@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamansingh0&label=Profile views&color=ab2346&style=flat" alt="iamansingh0" /> </p>
 
-### 😄 About me
+### 😄 About me:
 ---
 ```js
 const me = {
