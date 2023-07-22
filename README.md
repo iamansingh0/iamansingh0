@@ -1,5 +1,5 @@
 ## Hi there, I am Aman Kumar Singh 👋
-- 3rd Year Computer Science Student at [VIT Chennai](https://chennai.vit.ac.in/)
+- Final Year Computer Science Student at [VIT Chennai](https://chennai.vit.ac.in/)
 - Blockchain enthusiastic
 - 🌱 I’m currently learning **Advance ReactJS Concepts**
 
