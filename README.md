@@ -48,10 +48,6 @@ CSS          6 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-### 😎 My Github Stats
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/iamansingh0?cardType=octocat&theme=highcontrast)](https://git.io/awesome-stats-card)
-
 ### 👨‍💻 Programming Forums :
 
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
