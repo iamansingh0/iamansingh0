@@ -41,8 +41,7 @@ From: 13 November 2023 - To: 20 November 2023
 
 Total Time: 53 mins
 
-Python   50 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀   94.68 %
-HTML     2 mins          ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
