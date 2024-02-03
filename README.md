@@ -1,7 +1,7 @@
 ## Hi there, I am Aman Kumar Singh 👋
 - Final Year Computer Science Student at [VIT Chennai](https://chennai.vit.ac.in/)
 - Blockchain enthusiastic
-- 🌱 I’m currently learning **Advance ReactJS Concepts**
+- 🌱 I’m currently learning **Backend Development**
 
 [![An image of @iamansingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamansingh)](https://holopin.io/@iamansingh)
 
