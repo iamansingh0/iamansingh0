@@ -18,7 +18,7 @@ const me = {
 		console.log("Thanks for dropping by, hope you find some of my work interesting.")
 		},
 		
-	learning: " 🔭 I am learning advance reactJS currently.",
+	learning: " 🔭 I am learning advance reactJS currently."
 }
 
 me.say_hi()
