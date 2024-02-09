@@ -21,7 +21,7 @@ const me = {
 	learning: " 🔭 I am learning advance reactJS currently."
 }
 
-me.say_hi()
+me.say_hi();
 ```
 
 ### 📫 How to reach me:
