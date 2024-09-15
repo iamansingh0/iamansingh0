@@ -35,7 +35,7 @@ npx amank
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2024 - To: 14 September 2024
+From: 08 September 2024 - To: 15 September 2024
 
 Total Time: 6 hrs 43 mins
 
