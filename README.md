@@ -1,4 +1,4 @@
-## Hi there, I am Aman 👋
+## Hi there, I am Aman Kumar 👋
 - Software Engineer
 - 🌱 I’m currently learning **Backend Development** !
 
