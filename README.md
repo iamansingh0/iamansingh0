@@ -34,7 +34,7 @@ npx amank
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2025 - To: 04 August 2025
+From: 29 July 2025 - To: 05 August 2025
 
 Total Time: 12 mins
 
