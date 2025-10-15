@@ -1,6 +1,6 @@
 ## Hi there, I am Aman Kumar 👋
 - Software Engineer
-- 🌱 I’m currently learning **Backend Development** with Spring Boot!
+- 🌱 I’m currently learning **Backend Development** with NextJS!
 
 [![An image of @iamansingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamansingh)](https://holopin.io/@iamansingh)
 
@@ -9,15 +9,15 @@
 ```js
 const me = {
 	name: "Aman Kumar Singh",
-	title: "Web Developer",
+	title: "Software Developer",
 	langauge_spoken: ["Hindi", "English"],
-	coding: ['Javascript', 'Solidity', 'C++', 'Java'],
+	coding: ['Javascript', 'Apex', 'C++', 'Java'],
 	
 	say_hi: function() {
 		console.log("Thanks for dropping by, hope you find some of my work interesting.")
 		},
 		
-	learning: " 🔭 I am learning advance reactJS currently."
+	learning: " 🔭 I am learning Backend Development with NextJS currently."
 }
 
 me.say_hi();
