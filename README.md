@@ -34,7 +34,7 @@ npx amank
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2026 - To: 12 January 2026
+From: 06 January 2026 - To: 13 January 2026
 
 Total Time: 4 mins
 
